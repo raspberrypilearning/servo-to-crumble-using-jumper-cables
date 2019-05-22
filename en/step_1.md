@@ -1,58 +1,31 @@
-## Introduction
+## Connecting a servo to Crumble using jumper cables
 
-Add project description here. What will learners be making?
+Jumper cables are very standard electronics cables that can be used with breadboards, Raspberry Pi computers and many micro:bit pin out boards. They can have 'male' ends that have a small metal pin or 'female' ends that have a small socket. 
 
-### What you will make
+To connect a servo to our Crumble, we will use three male to male jumper cables. In other words, we will use the jumper cables with a metal pin on each end.
 
---- no-print ---
-Add instructions for using the embedded content here.
+It is useful to have cables that match your servo's cable colours so it is clear which cable is which but any colours will work.
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
+![Jumper cables](images/jumpers.png)
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+Jumper cables are very cheap to buy, come in many different lengths and can be used for all sorts of electronics projects. The pins of the cables fit directly into the sockets of the servo plugs which makes them very handy for connecting servos to Crumbles. The connection between the crocodile clips and the jumper cable pins is not the best connection ever and you will need to make sure that the exposed metal parts of the different croc clips do not touch each other when they are connected the jumper cable pins.
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
+--- task ---
 
-+ Describe hardware here
+Plug the pins of one end of the three jumper cables into end of the servo plug. 
 
-### Software
+Note: It is ideal to have jumper cables whose colours match those of your servo cable, and it is cetainly an advantage to make sure your three cables are a different colour from each other so that you can tell them apart easily.
 
-+ Scratch 2.0 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
+![Jumper cables attached to a servo](images/jumpers_to_servo.png)
 
-### Downloads
+Next, connect a crocodile clip between the positive terminal (+) of the Crumble and the positive wire (+) from the servo (the middle one and usually red), and from the negative terminal (-) of the Crumble to the negative wire (-) from the servo (usually brown or black).
 
-+ [rpf.io/project-name-go](http://rpf.io/project-name-go){:target="_blank"}
+![Jumper cables to croc clips to Crumble power](images/jumpers_to_crumble_power.png)
 
---- /collapse ---
+Finally, choose which terminal, A, B, C or D, of the Crumble you want to use to control the servo. Connect a crocodile clip between that terminal and the signal wire from the servo (opposite the negative and usally orange or white).
 
---- collapse ---
----
-title: What you will learn
----
+![Jumper cables to croc clips to Crumble signal](images/jumpers_to_crumble_signal.png)
 
-+ Two or three learning objectives
-+ ...should go here
+Make sure that the exposed metal parts of your crocodile clips to jumper pin connections are not going to touch each other. If you are worried about this you could wrap some electrical insulation tape around the joins. This would also help the connections stay together!
 
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/project-name/print){:target="_blank"}.
-
-[Here is a link to the resources for this project](http://rpf.io/project-name-go).
-
---- /collapse ---
+--- /task ---
