@@ -6,7 +6,7 @@ It is useful to have cables that match your servo's cable colours so it is clear
 
 ![Jumper cables](images/jumpers.png)
 
-Jumper cables are very cheap to buy, come in many different lengths and can be used for all sorts of electronics projects. The pins of the cables fit directly into the sockets of the servo plugs which makes them very handy for connecting servos to Crumbles. The connection between the crocodile clips and the jumper cable pins is not the best connection ever and you will need to make sure that the exposed metal parts of the different croc clips do not touch each other when they are connected the jumper cable pins.
+Jumper cables are cheap to buy, come in many different lengths and can be used for all sorts of electronics projects. The pins of the cables fit directly into the sockets of the servo plugs which makes them very handy for connecting servos to Crumbles. The connection between the crocodile clips and the jumper cable pins is not the best connection ever and you will need to make sure that the exposed metal parts of the different croc clips do not touch each other when they are connected the jumper cable pins.
 
 Plug the pins of one end of the three jumper cables into end of the servo plug. 
 
