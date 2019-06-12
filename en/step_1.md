@@ -12,14 +12,14 @@ Plug the pins of one end of the three jumper cables into end of the servo plug.
 
 Note: It is ideal to have jumper cables whose colours match those of your servo cable, and it is cetainly an advantage to make sure your three cables are a different colour from each other so that you can tell them apart easily.
 
-![Jumper cables attached to a servo](images/jumpers_to_servo.png)
+![Jumper cables attached to a servo](images/jumpers_to_servoSA.png)
 
 Next, connect a crocodile clip between the positive terminal (+) of the Crumble and the positive wire (+) from the servo (the middle one and usually red), and from the negative terminal (-) of the Crumble to the negative wire (-) from the servo (usually brown or black).
 
-![Jumper cables to croc clips to Crumble power](images/jumpers_to_crumble_power.png)
+![Jumper cables to croc clips to Crumble power](images/jumpers_to_crumble_powerSA.png)
 
 Finally, choose which terminal, A, B, C or D, of the Crumble you want to use to control the servo. Connect a crocodile clip between that terminal and the signal wire from the servo (opposite the negative and usally orange or white).
 
-![Jumper cables to croc clips to Crumble signal](images/jumpers_to_crumble_signal.png)
+![Jumper cables to croc clips to Crumble signal](images/jumpers_to_crumble_signalSA.png)
 
 Make sure that the exposed metal parts of your crocodile clips to jumper pin connections are not going to touch each other. If you are worried about this you could wrap some electrical insulation tape around the joins. This would also help the connections stay together!
